@@ -1,2 +1,2 @@
 My first readme
-This is my first update directly on Giyhub
+This is my first update directly on Github.
